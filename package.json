@@ -1,0 +1,25 @@
+{
+  "name": "rainbow-log",
+  "version": "1.0.0",
+  "description": "creates a colorful console log",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MadsHaerup/rainbowLog.git"
+  },
+  "keywords": [
+    "console",
+    "rainbow",
+    "colors",
+    "colours"
+  ],
+  "author": "Mads Haerup",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MadsHaerup/rainbowLog/issues"
+  },
+  "homepage": "https://github.com/MadsHaerup/rainbowLog#readme"
+}
